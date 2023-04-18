@@ -1,2 +1,2 @@
-# Estudo_em_C
+# Estudo em C
  inicio dos estudos em C
